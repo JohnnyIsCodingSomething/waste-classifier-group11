@@ -1,7 +1,7 @@
 
-# Trash Classifier MVP (TrashNet + PyTorch + Streamlit)
+# Trash Classifier (TrashNet + PyTorch + Streamlit)
 
-MVP untuk tugas SDG 12 (Responsible Consumption and Production – Plastic Waste Management):
+(Responsible Consumption and Production – Plastic Waste Management):
 
 - Klasifikasi sampah dari gambar (TrashNet: cardboard, glass, metal, paper, plastic, trash)
 - Output: label + confidence + top-2 + flag `needs_review` + instruksi buang
